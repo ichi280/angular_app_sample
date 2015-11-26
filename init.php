@@ -1,0 +1,1 @@
+wwb.cpj04clglmqx.ap-northeast-1.rds.amazonaws.com:3306
